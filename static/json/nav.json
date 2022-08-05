@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Introduction",
+        "action": "intro-section"
+    },
+    {
+        "title": "About us",
+        "action": "about-section"
+    },
+    {
+        "title": "Features",
+        "action": "features-section"
+    },
+    {
+        "title": "Technology",
+        "action": "technology-section"
+    },
+    {
+        "title": "Packages",
+        "action": "pricing-section"
+    }
+]
